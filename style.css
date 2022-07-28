@@ -20,8 +20,8 @@ header a {
     text-shadow: rgb(62, 62, 62);
     font-size: 1.5em;
     text-decoration: none;
-    padding-right: 15px;
-    padding-top: 50px;
+    padding-right: 5px;
+    margin-right: 5px;
 }
 
 #marcar-pagina{
@@ -187,6 +187,7 @@ label{
 
 .form-cadastro label{
     margin-left: 0px;
+    margin-bottom: 1px
 }
 .form-cadastro select[name=estado]{
     width: 100px;
